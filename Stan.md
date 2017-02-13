@@ -1,5 +1,6 @@
-## Website
+# Stan
 
+## Website
 
 <http://mc-stan.org/>
 
@@ -15,16 +16,12 @@
 
 Thousands of users rely on Stan for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business.
 
-
 Users specify log density functions in Stan’s probabilistic programming language and get:
 
 
 ⁃ full Bayesian statistical inference with MCMC sampling (NUTS, HMC)
-
 ⁃ approximate Bayesian inference with variational inference (ADVI)
-
 ⁃ penalized maximum likelihood estimation with optimization (L-BFGS)
-
 
 Stan’s math library provides differentiable probability functions & linear algebra (C++ autodiff). Additional R packages provide expression-based linear modeling, posterior visualization, and leave-one-out cross-validation.
 
@@ -45,15 +42,10 @@ Stan, C++, Shell, R Language
 
 All financial decisions related to NumFOCUS are made by Stan’s Leadership Body for NumFOCUS:
 
-
 ⁃ Michael Betancourt (Columbia University)
-
 ⁃ Tamara Broderick (Massachusetts Institute of Technology)
-
 ⁃ Bob Carpenter (Columbia University)
-
 ⁃ Andrew Gelman (Columbia University)
-
 ⁃ Elizabeth Wolkovich (Harvard University)
 
 

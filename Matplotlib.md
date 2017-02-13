@@ -1,6 +1,6 @@
-## Website
+# Matplotlib
 
-[matplotlib website](http://matplotlib.org/)
+## Website
 
 <http://matplotlib.org/>
 

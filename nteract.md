@@ -1,7 +1,8 @@
+# nteract
+
 ## Website
 
 <https://nteract.io/>
-
 
 ## Social Media
 
@@ -21,14 +22,13 @@ JavaScript CSS CoffeeScript Python TypeScript
 
 ## Team
 
-
+Contributors: [Contributors to nteract/nteract](https://github.com/nteract/nteract/graphs/contributors)
 
 ## Governance
 
 
 
 ## Code of Conduct
-
 
 [nteract/CODE\_OF\_CONDUCT.md at master · nteract/nteract](https://github.com/nteract/nteract/blob/master/CODE_OF_CONDUCT.md)
 
@@ -37,50 +37,32 @@ JavaScript CSS CoffeeScript Python TypeScript
 
 ## Code Repository
 
-
 Github organization: [nteract](https://github.com/nteract)
 
+## Build Tools
 
-CI AppVeyor: [nteract 1.0.1677 - AppVeyor](https://ci.appveyor.com/project/nteract/nteract/branch/master)
+- CI AppVeyor: [nteract 1.0.1677 - AppVeyor](https://ci.appveyor.com/project/nteract/nteract/branch/master)
+- TravisCI: [nteract/nteract - Travis CI](https://travis-ci.org/nteract/nteract)
 
-TravisCI: [nteract/nteract - Travis CI](https://travis-ci.org/nteract/nteract)
+## Releases
 
+[Releases · nteract/nteract](https://github.com/nteract/nteract/releases)
 
 ## Issue Tracker
-
 
 GitHub: [Issues · nteract/nteract](https://github.com/nteract/nteract/issues)
 
 
 ## Documentation
 
+- Contributing: [nteract/CONTRIBUTING.md at master · nteract/nteract](https://github.com/nteract/nteract/blob/master/CONTRIBUTING.md)
+- README: [nteract/README.md at master · nteract/nteract](https://github.com/nteract/nteract/blob/master/README.md)
 
-Contributing: [nteract/CONTRIBUTING.md at master · nteract/nteract](https://github.com/nteract/nteract/blob/master/CONTRIBUTING.md)
+## Discussion
 
-README: [nteract/README.md at master · nteract/nteract](https://github.com/nteract/nteract/blob/master/README.md)
-
-
-## Community / Contribute Page
-
-
-Contributors: [Contributors to nteract/nteract](https://github.com/nteract/nteract/graphs/contributors)
-
-
-## Releases
-
-
-[Releases · nteract/nteract](https://github.com/nteract/nteract/releases)
-
-
-## Communication Channels
-
-
-Blog: [nteract – Medium](https://medium.com/nteract)
-
-Slack: <https://nteract.slack.com/>
-
-Slack Inviter: [Join nteract on Slack!](https://slackin-nteract.now.sh/)
-
+- Blog: [nteract – Medium](https://medium.com/nteract)
+- Slack: <https://nteract.slack.com/>
+- Slack Inviter: [Join nteract on Slack!](https://slackin-nteract.now.sh/)
 
 ## Events
 
@@ -88,8 +70,7 @@ Slack Inviter: [Join nteract on Slack!](https://slackin-nteract.now.sh/)
 ## License
 
 [nteract/LICENSE at master · nteract/nteract](https://github.com/nteract/nteract/blob/master/LICENSE)
-
-BSD-3-Clause
+(BSD-3-Clause)
 
 
 ## Citing

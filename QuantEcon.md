@@ -1,6 +1,6 @@
-## Website
+# QuantEcon
 
-[QuantEcon](https://quantecon.org/)
+## Website
 
 <https://quantecon.org/>
 
@@ -32,28 +32,19 @@ Python, [Julia](http://julialang.org/)
 Steering Committee
 
 ⁃ Susan Athey
-
 ⁃ Sagiri Kitao
-
 ⁃ Matthew McKay
-
 ⁃ John Stachurski
-
 ⁃ Thomas J. Sargent
-
 ⁃ Sevin Yeltekin
 
 
 Lead Developers
 
 ⁃ Chase Coleman
-
 ⁃ Spencer Lyon
-
 ⁃ David Pugh
-
 ⁃ Daisuke Oyama
-
 ⁃ Pablo Winant
 
 

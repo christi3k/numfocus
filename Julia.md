@@ -1,9 +1,8 @@
+# Julia
+
 ## Website
 
-[**The Julia Language**](http://julialang.org/)
-
-[**http://julialang.org/**](http://julialang.org/)
-
+<http://julialang.org/>
 
 ## Social Media
 

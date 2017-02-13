@@ -1,3 +1,5 @@
+# rOpenSci
+
 ## Website
 
 <http://ropensci.org/>
@@ -28,43 +30,28 @@ R Language
 Staff
 
 ⁃ Karthik Ram - rOpenSci Project Lead
-
 ⁃ Scott Chamberlain - Technical Lead
-
 ⁃ Stacey Dorton - administrative assistant and office Jedi
-
 ⁃ Jeroen Ooms- Software Engineer
-
 ⁃ Stefanie Butland - Community Manager
 
 
 Leadership Team
 
-
 ⁃ Karthik Ram
-
 ⁃ Scott Chamberlain
-
 ⁃ Carl Boettiger
-
 ⁃ Jenny Bryan
-
 ⁃ Rich FitzJohn
 
 
 Advisory Board
 
-
 ⁃ Hadley Wickham
-
 ⁃ Mackenzie Smith
-
 ⁃ Duncan Temple Lang
-
 ⁃ Nico Cellinese
-
 ⁃ Matt Jones
-
 ⁃ JJ Allaire
 
 
