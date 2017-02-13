@@ -1,6 +1,8 @@
-NumFOCUS Projects Overview
+# NumFOCUS Projects Overview
 
 ## Sponsored Projects
+
+(in progress)
 
 - [AstroPy](AstroPy.md)
 - [Data Carpentry](Data%20Carpentry.md)
@@ -19,3 +21,8 @@ NumFOCUS Projects Overview
 - [nteract](nteract.md)
 - [rOpenSci](rOpenSci.md)
 - [yt project](yt%20project.md)
+
+
+## Affiliated Projects
+
+(to come)
