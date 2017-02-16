@@ -1,6 +1,12 @@
-# NumFOCUS Projects Overview
+# NumFOCUS Projects
 
-## Sponsored Projects
+## Roadmp & Planning
+
+- [Draft roadmap](Roadmap draft.md) (in progress)
+
+## Project Overviews
+
+### Sponsored Projects
 
 (in progress)
 
@@ -23,6 +29,6 @@
 - [SymPy](projects/SymPy.md)
 - [yt project](projects/yt project.md)
 
-## Affiliated Projects
+### Affiliated Projects
 
 (to come)
