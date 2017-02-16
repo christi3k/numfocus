@@ -12,6 +12,7 @@
 - [Matplotlib](Matplotlib.md)
 - [NumPy](NumPy.md)
 - [Pandas](Pandas.md)
+- [PyTables](PyTables.md)
 - [Project Jupyter](Project Jupyter.md)
 - [PyMC3](PyMC3.md])
 - [QuantEcon](QuantEcon.md)
