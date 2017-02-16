@@ -10,19 +10,18 @@
 - [IPython](IPython.md)
 - [Julia](Julia.md)
 - [Matplotlib](Matplotlib.md)
+- [nteract](nteract.md)
 - [NumPy](NumPy.md)
 - [Pandas](Pandas.md)
-- [PyTables](PyTables.md)
 - [Project Jupyter](Project Jupyter.md)
 - [PyMC3](PyMC3.md])
+- [PyTables](PyTables.md)
 - [QuantEcon](QuantEcon.md)
+- [rOpenSci](rOpenSci.md)
 - [Software Carpentry](Software Carpentry.md)
 - [Stan](Stan.md)
 - [SymPy](SymPy.md)
-- [nteract](nteract.md)
-- [rOpenSci](rOpenSci.md)
 - [yt project](yt project.md)
-
 
 ## Affiliated Projects
 
