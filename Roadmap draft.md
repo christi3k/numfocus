@@ -5,7 +5,7 @@ Roadmap, organized by quarter, then month, then two-week "sprint."
 
 ## Areas of work
 
-My work as Project Director is organized into give (5) main areas:
+My work as Project Director is organized into (4) main areas:
 
 - Communication with and among projects.
 - Relationship-building w/ industry.
