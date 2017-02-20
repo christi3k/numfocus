@@ -8,7 +8,7 @@
 
 PyTables is a package for managing hierarchical datasets designed to efficiently cope with extremely large amounts of data.
 
-It is built on top of the HDF5 \[1\] library, the Python language \[2\] and the NumPy \[3\] package. It features an object-oriented interface that, combined with C extensions for the performance-critical parts of the code, makes it a fast yet extremely easy-to-use tool for interactively storing and retrieving very large amounts of data.
+It is built on top of the HDF5 library, the Python language and the NumPy package. It features an object-oriented interface that, combined with C extensions for the performance-critical parts of the code, makes it a fast yet extremely easy-to-use tool for interactively storing and retrieving very large amounts of data.
 
 
 ##Languages##
@@ -80,7 +80,7 @@ GitHub: [PyTables/PyTables](https://github.com/PyTables/PyTables)
 
 Code Climate: [Feed - Code Climate](https://codeclimate.com/github/PyTables/PyTables)
 
-Jenkins: [PyTables \[Jenkins\]](https://ci.openmicroscopy.org/job/PyTables/)
+Jenkins: [PyTables Jenkins](https://ci.openmicroscopy.org/job/PyTables/)
 
 AppVeyor: [PyTables 1.0.166 - AppVeyor](https://ci.appveyor.com/project/PyTablesBot/pytables)
 
@@ -182,21 +182,6 @@ Year: 2002 -
 URL: http://www.pytables.org
 
 Here’s an example of a BibTeX entry:
-
-
-
-@Misc{,
-
-author = {Francesc Alted and Ivan Vilata and others},
-
-title = {{PyTables}: Hierarchical Datasets in {Python}},
-
-year = {2002--},
-
-url = "http://www.pytables.org/"
-
-}
-
 
 
 ##History##
